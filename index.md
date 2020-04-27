@@ -41,4 +41,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 Посилання на [подію](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDhqZDRhcm5saWZodGFtbzJta2NkaW12dnIgbXNrYWIyMDAwQG0&tmsrc=mskab2000%40gmail.com)
 
 
-
+### Тест на знання міста Львова
+[Пройти тестування](https://docs.google.com/forms/d/e/1FAIpQLSci5u7486BHHH-jn-28_REp1fwNtYaoThuMFaXIAj5gNGddFQ/viewform?usp=sf_link)
